@@ -2,7 +2,7 @@ package com.br.brunnadornelles;
 
 import com.br.brunnadornelles.model.Conta;
 import com.br.brunnadornelles.repository.ContaRepository;
-import com.br.brunnadornelles.model.service.ContaService;
+import com.br.brunnadornelles.service.ContaService;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.InjectMocks;

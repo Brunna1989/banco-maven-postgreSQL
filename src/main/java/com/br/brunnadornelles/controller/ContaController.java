@@ -1,7 +1,7 @@
 package com.br.brunnadornelles.controller;
 
 import com.br.brunnadornelles.model.Conta;
-import com.br.brunnadornelles.model.service.ContaService;
+import com.br.brunnadornelles.service.ContaService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

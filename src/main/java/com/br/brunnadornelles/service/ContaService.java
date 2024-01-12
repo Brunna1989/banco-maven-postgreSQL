@@ -1,4 +1,4 @@
-package com.br.brunnadornelles.model.service;
+package com.br.brunnadornelles.service;
 
 import com.br.brunnadornelles.model.Conta;
 import com.br.brunnadornelles.repository.ContaRepository;
